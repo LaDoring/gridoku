@@ -14,8 +14,3 @@ git clone --recursive -j8 https://github.com/LaDoring/Gridoku
 2. Install `requirements.txt` (directly from https://github.com/LaDoring/Gridoku/blob/main/requirements.txt to get all the libraries that are used in the project.
 3. (Optional) Change the name of levels in `level_menu.py`. According to you wanties rename the parameters (str 51-54) you want to.
 5. Start your sudoku-game with running the `total_sudoku_gui.py` file.
-
-
-# Tips
-
-There are some pics from an app.
