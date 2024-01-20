@@ -1,6 +1,6 @@
 # Gridoku
 
-I welcome everyone to use my source code to create own Gridoku. 
+I welcome everyone to use my source code to create own Gridoku (sudoku). 
 In these simple staps you are ablae to create your own sudoku game with a fascinating desing.
 
 # Creating your Gridoku
